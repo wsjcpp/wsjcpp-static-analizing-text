@@ -1,1 +1,3 @@
 # wsjcpp-static-analizing-text
+
+[![Total alerts](https://img.shields.io/lgtm/alerts/g/wsjcpp/wsjcpp-static-analizing-text.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/wsjcpp/wsjcpp-static-analizing-text/alerts/) [![Language grade: C/C++](https://img.shields.io/lgtm/grade/cpp/g/wsjcpp/wsjcpp-static-analizing-text.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/wsjcpp/wsjcpp-static-analizing-text/context:cpp)
